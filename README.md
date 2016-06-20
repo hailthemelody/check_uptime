@@ -35,3 +35,4 @@ apply Service "uptime" {
 ## TODO
 
 * add support for specifying seconds/minutes/hours/etc as output
+* add support for exporting to graphite
